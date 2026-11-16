@@ -44,5 +44,5 @@ I work across the stack, from Angular frontends to Java backends and MySQL datab
 ### 📫 Connect with me
 
 - 📧 Email: yakanksha813@gmail.com
-- 💼 LinkedIn: [Add your LinkedIn link here](https://linkedin.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/akanksha-y-a5518b246/
 - 🌐 Portfolio: *coming soon*
