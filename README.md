@@ -86,7 +86,7 @@ Full-stack and AI projects in progress
 
 <p align="center">
   📧 <a href="mailto:yakanksha813@gmail.com">yakanksha813@gmail.com</a> &nbsp;•&nbsp;
-  💼 <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">LinkedIn</a> &nbsp;•&nbsp;
+  💼 <a href="https://www.linkedin.com/in/akanksha-y-a5518b246/">LinkedIn</a> &nbsp;•&nbsp;
   🌐 Portfolio: <i>coming soon</i>
 </p>
 
